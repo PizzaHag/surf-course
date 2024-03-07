@@ -1,2 +1,4 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+# Задача
+
+1. Вычислите средний возраст всей техники на всех угодьях, учитывая обе структуры (mapBefore2010 и mapAfter2010).
+2. Отсортируйте всю технику по возрасту, затем взяв 50% самой старой техники, определите её средний возраст.
